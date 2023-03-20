@@ -2,6 +2,8 @@
   "name": "t3-notes",
   "version": "0.1.0",
   "private": true,
+  "author": "Shahidul Islam Majumder<hello@shahid.pro>",
+  "description": "A simple note taking app with T3 stack",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
